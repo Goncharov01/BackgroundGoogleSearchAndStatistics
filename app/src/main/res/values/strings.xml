@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Background Search</string>
+    <string name="search_car">https://www.google.com/search?q=car</string>
+    <string name="search_air">https://www.google.com/search?q=air</string>
+    <string name="search_key">https://www.google.com/search?q=key</string>
+    <string name="app_pref">mySettings</string>
+    <string name="key_car">\"Key Car: \"</string>
+    <string name="key_1">key_1</string>
+    <string name="key_2">key_2</string>
+    <string name="key_3">key_3</string>
+    <string name="time">Time</string>
+    <string name="link">Link</string>
+</resources>
